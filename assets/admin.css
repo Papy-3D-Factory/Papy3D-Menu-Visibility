@@ -1,0 +1,24 @@
+.p3dmv-fieldset {
+	margin-top: 12px;
+	padding: 12px;
+	border: 1px solid #dcdcde;
+	background: #fff;
+}
+
+.p3dmv-legend {
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+.p3dmv-capabilities-list {
+	max-height: 220px;
+	overflow: auto;
+	padding: 8px;
+	border: 1px solid #dcdcde;
+	background: #f6f7f7;
+}
+
+.p3dmv-capability-label {
+	display: block;
+	margin-bottom: 6px;
+}
